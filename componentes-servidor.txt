@@ -1,0 +1,19 @@
+Sistema operativo:
+Es el software base que administra el hardware del computador y permite ejecutar
+otros programas. En este caso usamos Windows con WSL2 como entorno de soporte.
+
+Node.js:
+Es el entorno de ejecución que permite correr código JavaScript fuera del navegador.
+Hace posible crear servidores web y aplicaciones backend con JavaScript.
+
+Aplicación server.js:
+Es el archivo principal que define las rutas y la lógica del servidor.
+Contiene las instrucciones que determinan cómo responde el servidor a cada solicitud.
+
+Puerto:
+Es el canal de comunicación por donde el servidor recibe las solicitudes.
+En esta actividad el servidor escucha en el puerto 3000.
+
+Logs:
+Son registros que documentan la actividad y eventos del servidor.
+Permiten monitorear el funcionamiento del sistema y detectar errores.

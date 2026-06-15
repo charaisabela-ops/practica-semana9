@@ -1,0 +1,12 @@
+Es fundamental que las plataformas tecnológicas comunitarias funcionen de manera
+estable y segura porque de ellas dependen procesos importantes para las personas.
+Si un servidor falla, los ciudadanos no pueden registrar reportes, consultar información
+ni participar en los procesos que la plataforma soporta.
+La estabilidad garantiza que el servicio esté disponible en todo momento, lo cual
+genera confianza en los usuarios y fomenta su participación activa.
+La seguridad protege los datos personales y la información sensible de la comunidad,
+evitando que terceros puedan acceder o manipular los registros.
+Un servidor bien administrado, con monitoreo constante y registro de eventos,
+permite detectar problemas a tiempo y corregirlos antes de que afecten a los usuarios.
+En conclusión, la estabilidad y seguridad de un servidor son la base para que
+cualquier plataforma comunitaria cumpla su propósito de manera confiable.
